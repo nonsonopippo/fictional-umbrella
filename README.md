@@ -1,10 +1,10 @@
 # Fictional Umbrella
 
-This is where I try to do stuff
+This is where we try something new  
+We can find some tips on writing on MarkDown [here](https://wordpress.com/support/markdown-quick-reference/)   
+All the datasets are to be found in the [Wiki.](https://github.com/nonsonopippo/fictional-umbrella/wiki)
 
-We can find some help [here](https://wordpress.com/support/markdown-quick-reference/)
-
-### About datasets
+### About the GitHub
 * This would be the first thing to know
 * Then the second
 * and so on
