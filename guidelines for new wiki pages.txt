@@ -1,0 +1,34 @@
+<!--
+Please, whenever adding new datasets, copy and paste (changing the text in square brackets) the following text:
+-->
+
+### Name 
+[Name of the dataset]
+
+### Source
+[Who owns the data? Where is it available? Is there a link?]
+
+### Nature of the data 
+[Is it administrative data? Or survey, maybe web scrape...]
+
+### Sample and coverage
+[Who or what is included? In which period? With what frequency?] 
+
+### Variable descriptions
+[Briefly describe which variables are included in it. Codebooks are not necessary, but welcomed :) ] 
+
+### References
+[Papers that use this data as a reference] 
+
+### ifo Contact Person 
+[Who could help with this data, at ifo?]
+
+### Comments
+[You choose, optional]
+
+### Additional material
+[You can include here graphs and images. However, if you want to upload additional material (excel, dofiles, pdfs, ...), please upload it in a zip folder in the main "Code" section. Then, quickly mention it here.]
+
+<!--
+For a quick guide on how to add bullet points, links, images, and so on, visit here: https://wordpress.com/support/markdown-quick-reference/
+-->
