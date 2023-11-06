@@ -8,6 +8,7 @@ Go to "Wiki" and click on the green button "New Page". The title should be the n
 
 ### 2. Update the Wiki home page
 Thanks! But now, others need to know that you added a dataset!  
-Go back to "Wiki" and click on the grey button "Edit". In the list of datasets, add your own entry: `#. [Name of your dataset](link to the page)`, where # is the number of the entry.
+Go back to "Wiki" and click on the grey button "Edit". In the list of datasets, add your own entry:  
+`#. [Name of your dataset](link to the page)`, where # is the number of the entry.
 
 [<img src="https://www.ifo.de/sites/default/files/social/logo-ifo.png?c=1689236459" alt="ifo institute logo" width="200"/>](https://www.ifo.de/)
